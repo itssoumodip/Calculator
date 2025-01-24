@@ -39,3 +39,5 @@ document.addEventListener('keydown', (event) => {
         clearDisplay();
     }
 });
+
+console.log("Hi, this is Soumodip");
