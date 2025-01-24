@@ -5,8 +5,10 @@ body {
     height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    /* background-color: #ececec; */
+    /* background-color: #ececec;
+    hi Pradip*/
     background: rgba(233, 0, 194,0.4);
+    
 }
 
 .calculator {
